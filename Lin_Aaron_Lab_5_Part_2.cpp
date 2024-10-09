@@ -1,6 +1,6 @@
 // Aaron Lin
 // 10/08/2024
-// Lab 5 Part 1
+// Lab 5 Part 2
 
 #include <iostream>
 #include <string>
